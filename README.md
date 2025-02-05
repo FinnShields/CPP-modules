@@ -1,5 +1,5 @@
 # CPP-modules
-The first five C++ modules at Hive Helsinki
+The C++ modules at Hive Helsinki
 
 Each exercise contains a makefile which will compile the executable. The purpose of these modules
 is to serve as an introduction to C++, and as such it focuses on using different aspects of the language,
